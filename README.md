@@ -4,11 +4,11 @@
 
 ## 📖 About me
 
-* 💻 I'm a full-stack frontend developer, especially good at APP development
+* 💻 I'm a full-stack frontend developer, especially good at mobile phone app development
 * 🎨 I'm a self-taught UI designer & producter  
 * 📱 I make apps for Android and iOS
-* 🌐 You can see some of my projects on [AppStore](https://app.tangkunyin.com)
-* 📺 I make web development and tech tutorials on [YouTube](https://www.youtube.com/)
+* 🌐 You can see some of my products on [AppStore](https://app.tangkunyin.com)
+* 📺 I make app development and tech tutorials on [YouTube](https://www.youtube.com/)
 
 ## 🙋‍♂️ Connect with me:
 
