@@ -1,6 +1,6 @@
 ![](https://github.com/tangkunyin/tangkunyin/blob/master/resources/header_x.png)
 
-<h3 align="center">Hey there, I'm <a href="https://about.tangkunyin.com" target="_blank">Thomas Tang</a> - A frontend Developer <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h3>
+<h3 align="center">Hey there, I'm <a href="https://hello.tangkunyin.com" target="_blank">Thomas Tang</a> - A frontend Developer <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h3>
 
 ## 📖 About me
 
@@ -10,6 +10,7 @@
 * 🌐 You can see some of my products on [AppStore](https://app.tangkunyin.com)
 * 📺 I make app development and tech tutorials on [YouTube](https://www.youtube.com/)
 
+<!-- 
 ## 🙋‍♂️ Connect with me:
 
 <p align="left">
@@ -18,6 +19,7 @@
   <a href="https://www.reddit.com/user/Thomartisan/" target="_blank"><img alt="Reddit" title="Reddit" src="https://img.shields.io/badge/-Reddit-FF5700?style=for-the-badge&logo=reddit&logoColor=white"/></a>
   <a href="https://www.youtube.com/@thomartisan" target="_blank"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 </p>
+ -->
 
 ## 👨‍💻 Languages and Tools:
 
