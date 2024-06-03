@@ -1,23 +1,23 @@
 ![](https://github.com/tangkunyin/tangkunyin/blob/master/resources/header_x.webp)
 
-<h3 align="center">Hey there, I'm <a href="https://bento.me/thomartisen" target="_blank">Thomas Tang</a> - A frontend Developer <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h3>
+<h3 align="center">Hey there, I'm <a href="https://bento.me/tomartisan" target="_blank">Thomas Tang</a> - A frontend Developer <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h3>
 
 ## 📖 About me
 
 * 🧑‍💻 I'm a full-stack frontend developer, especially good at mobile apps dev.
 * 🎨 I'm a self-taught UIE designer & producter.
 * 📱 I made apps for Android/iOS and WebX.
-* 🎙️ I made development tutorials on [MyIndieBlog](https://thomartisen.com)
+* 🎙️ I made development tutorials on [MyIndieBlog](https://tomartisan.com)
 * 🎁 You can see some of my products on ~~[AppStore](https://tangkunyin.com)~~
 
 <!-- 
 ## 🙋‍♂️ Connect with me:
 
 <p align="left">
-  <a href="https://dev.to/thomartisen" target="_blank"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev.to&logoColor=white"></a>
-  <a href="https://twitter.com/thomartisen" target="_blank"><img alt="X" title="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="https://www.reddit.com/user/thomartisen/" target="_blank"><img alt="Reddit" title="Reddit" src="https://img.shields.io/badge/-Reddit-FF5700?style=for-the-badge&logo=reddit&logoColor=white"/></a>
-  <a href="https://www.youtube.com/@thomartisen" target="_blank"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+  <a href="https://dev.to/tomartisan" target="_blank"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev.to&logoColor=white"></a>
+  <a href="https://twitter.com/tomartisan" target="_blank"><img alt="X" title="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://www.reddit.com/user/tomartisan/" target="_blank"><img alt="Reddit" title="Reddit" src="https://img.shields.io/badge/-Reddit-FF5700?style=for-the-badge&logo=reddit&logoColor=white"/></a>
+  <a href="https://www.youtube.com/@itomartisan" target="_blank"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 </p>
  -->
 
