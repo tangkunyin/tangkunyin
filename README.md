@@ -1,14 +1,14 @@
 ![](https://github.com/tangkunyin/tangkunyin/blob/master/resources/header_x.webp)
 
-<h3 align="center">Hey there, I'm <a href="https://bento.me/tomartisan" target="_blank">Thomas Tang</a> - A frontend Developer <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h3>
+<h3 align="center">Hey there, I'm <a href="https://bento.me/tomartisan" target="_blank">Thomas Tang</a> - A fullstack Developer <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h3>
 
 ## 📖 About me
 
-* 🧑‍💻 I'm a full-stack frontend developer, especially good at mobile apps dev.
-* 🎨 I'm a self-taught UIE designer & producter.
+* 🧑‍💻 I'm a full-stack developer, especially good at mobile phone app development.
+* 🎨 I'm a self-taught UIE designer & producer.
 * 📱 I made apps for Android/iOS and WebX.
-* 🎙️ I made development tutorials on [MyIndieBlog](https://tomartisan.com)
-* 🎁 You can see some of my products on ~~[AppStore](https://tangkunyin.com)~~
+* 🎙️ I wrote development tutorials on [Chinese IndieBlog](https://tomartisan.com) and [English MediumBlog](https://tomartisan.medium.com).
+* 🎁 You can enjoy some of my products on the ~~[AppStore](https://tangkunyin.com)~~.
 
 <!-- 
 ## 🙋‍♂️ Connect with me:
