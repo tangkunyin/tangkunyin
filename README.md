@@ -4,7 +4,7 @@
 
 ## 📖 About me
 
-* 🧑‍💻 I'm a full-stack developer, especially good at mobile phone app development.
+* 🧑‍💻 I'm a full-stack developer, especially good at frontend development.
 * 🎨 I'm a self-taught UIE designer & producer.
 * 📱 I made apps for Android/iOS and WebX.
 * 🎙️ I wrote development tutorials on [Chinese IndieBlog](https://tomartisan.com) and [English MediumBlog](https://tomartisan.medium.com).
