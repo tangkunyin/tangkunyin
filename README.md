@@ -6,7 +6,7 @@
 
 * 🧑‍💻 I'm a full-stack developer, especially good at frontend development.
 * 🎨 I'm a self-taught UIE designer & producer.
-* 📱 I made apps for Android/iOS and WebX.
+* 📱 I made software applications for Android/iOS and WebX.
 * 🎙️ I wrote development tutorials on [Chinese IndieBlog](https://tomartisan.com) and [English MediumBlog](https://tomartisan.medium.com).
 * 🎁 You can enjoy some of my products on the ~~[AppStore](https://tangkunyin.com)~~.
 
