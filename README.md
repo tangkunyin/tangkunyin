@@ -7,6 +7,7 @@
 * 🧑‍💻 I'm a full-stack developer, especially good at frontend development
 * 🎨 I'm a self-taught UIE designer & producer
 * 📱 I made software applications for Android/iOS and WebX
+* 🗒️ I have I have an <a href="https://tomartisan.com" target="_blank">independent blog</a> to record technology and humanities
 * 🔭 I’m currently working on something cool :wink:
 * 🌱 I’m currently learning Rust
 
@@ -19,6 +20,8 @@
 ## 🙋‍♂️ One more thing...
 <details>
   <summary>🎁 supprise</summary>
-  <ol>I wrote development tutorials on [Chinese IndieBlog](https://tomartisan.com) and [English MediumBlog](https://tomartisan.medium.com)</ol>
-  <ol>You can enjoy some of my products on the ~~[AppStore](https://tangkunyin.com)~~ </ol>
+  <ul>
+    <li>I wrote programming tutorials on <a href="https://pro.tomartisan.com" target="_blank">Programming Notes</a></li>
+    <li>You can explore some of my products on the <a href="https://hub.tomartisan.com" target="_blank">Awesome Hub</a></li>
+  </ul>
 </details>
