@@ -4,10 +4,9 @@
 
 ## <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/> About
 
-* 🧑‍💻 I'm a full-stack developer, especially good at frontend development
-* 🎨 I'm a self-taught UIE designer & producer
-* 📱 I made software applications for Android/iOS and WebX
-* 🗒️ I have I have an <a href="https://tomartisan.com" target="_blank">independent blog</a> to record technology and humanities
+* 🧑‍💻 I'm a professional full-stack developer, and amateur UI/E designer & producer
+* 📱 I build cross-platform applications for Android, iOS, and the web
+* 🗒️ I have an <a href="https://tomartisan.com" target="_blank">independent blog</a> to record technology and humanities
 * 🔭 I’m currently working on something cool :wink:
 * 🌱 I’m currently learning Rust
 
@@ -21,7 +20,7 @@
 <details>
   <summary>🎁 supprise</summary>
   <ul>
-    <li>I wrote programming tutorials on <a href="https://pro.tomartisan.com" target="_blank">Programming Notes</a></li>
+    <li>I write programming tutorials on the <a href="https://pro.tomartisan.com" target="_blank">Programming Notes</a></li>
     <li>You can explore some of my products on the <a href="https://hub.tomartisan.com" target="_blank">Awesome Hub</a></li>
   </ul>
 </details>
