@@ -13,13 +13,12 @@
 
 ## 📊 Stats
 
-[![](https://github-readme-stats.vercel.app/api?username=tangkunyin&count_private=true&show_icons=true&theme=graywhite&hide_border=true&custom_title=Activity)](https://github.com/anuraghazra/github-readme-stats) [![](https://github-readme-stats.vercel.app/api/top-langs/?username=tangkunyin&count_private=true&show_icons=true&theme=graywhite&hide_border=true&hide_title=&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=tangkunyin&count_private=true&show_icons=true&theme=graywhite&hide_border=true&hide_title=&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats) [![](https://github-readme-stats.vercel.app/api?username=tangkunyin&count_private=true&show_icons=true&theme=graywhite&hide_border=true&custom_title=Activity)](https://github.com/anuraghazra/github-readme-stats) 
 
 
 ## 🙋‍♂️ One more thing...
 <details>
   <summary>🎁 supprise</summary>
-  <br/>
-  - I wrote development tutorials on [Chinese IndieBlog](https://tomartisan.com) and [English MediumBlog](https://tomartisan.medium.com)
-  - You can enjoy some of my products on the ~~[AppStore](https://tangkunyin.com)~~
+  <ol>I wrote development tutorials on [Chinese IndieBlog](https://tomartisan.com) and [English MediumBlog](https://tomartisan.medium.com)</ol>
+  <ol>You can enjoy some of my products on the ~~[AppStore](https://tangkunyin.com)~~ </ol>
 </details>
