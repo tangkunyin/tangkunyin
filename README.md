@@ -1,8 +1,8 @@
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 
-<h3 align="left">Hey there, I'm <a href="https://bento.me/tomartisan" target="_blank">Thomas Tang</a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h3>
+<h3 align="left">Hi there, I'm <a href="https://bento.me/tomartisan" target="_blank">Thomas Tang</a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h3>
 
-## 👨‍💻 About
+## 🤓 About
 
 * 🧑‍💻 I'm a full-stack developer, especially good at frontend development
 * 🎨 I'm a self-taught UIE designer & producer
@@ -20,6 +20,6 @@
 <details>
   <summary>supprise</summary>
   <br/>
-  * 🎙️ I wrote development tutorials on [Chinese IndieBlog](https://tomartisan.com) and [English MediumBlog](https://tomartisan.medium.com).
-  * 🎁 You can enjoy some of my products on the ~~[AppStore](https://tangkunyin.com)~~.
+  🎙️ I wrote development tutorials on [Chinese IndieBlog](https://tomartisan.com) and [English MediumBlog](https://tomartisan.medium.com)
+  🎁 You can enjoy some of my products on the ~~[AppStore](https://tangkunyin.com)~~
 </details>
