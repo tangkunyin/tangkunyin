@@ -10,8 +10,6 @@
 * 🔭 I’m currently working on something cool :wink:
 * 🌱 I’m currently learning Rust
 
-
 ## 📊 Stats
 
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=tangkunyin&count_private=true&show_icons=true&theme=graywhite&hide_border=true&hide_title=&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats) [![](https://github-readme-stats.vercel.app/api?username=tangkunyin&count_private=true&show_icons=true&theme=graywhite&hide_border=true&custom_title=Activity)](https://github.com/anuraghazra/github-readme-stats) 
-
+![Stats](./profile/stats.svg) ![Top Languages](./profile/top-langs.svg)
