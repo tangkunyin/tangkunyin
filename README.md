@@ -1,6 +1,6 @@
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 
-<h3 align="left">Hi there, I'm <a href="https://bento.me/tomartisan" target="_blank">Thomas Tang</a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h3>
+<h3 align="left">Hi there, I'm <a href="https://tangkunyin.com" target="_blank">Thomas Tang</a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h3>
 
 ## <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/> About
 
@@ -15,12 +15,3 @@
 
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=tangkunyin&count_private=true&show_icons=true&theme=graywhite&hide_border=true&hide_title=&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats) [![](https://github-readme-stats.vercel.app/api?username=tangkunyin&count_private=true&show_icons=true&theme=graywhite&hide_border=true&custom_title=Activity)](https://github.com/anuraghazra/github-readme-stats) 
 
-
-## 🙋‍♂️ One more thing...
-<details>
-  <summary>🎁 supprise</summary>
-  <ul>
-    <li>I write programming tutorials on the <a href="https://pro.tomartisan.com" target="_blank">Programming Notes</a></li>
-    <li>You can explore some of my products on the <a href="https://hub.tomartisan.com" target="_blank">Awesome Hub</a></li>
-  </ul>
-</details>
